@@ -1,0 +1,9 @@
+## Interface: 110100
+## Title: TimePlayed
+## Notes: Displays time played on the character info panel with customizable options.
+## Author: Asc3ndance
+## Version: 1.0.0
+## SavedVariables: TimePlayedDB
+
+TimePlayedMenu.lua
+TimePlayed.lua
